@@ -7,11 +7,11 @@
  conhecimentos em HTML, CSS e JavaScript, tive a oportunidade de aprender competências novas, como SASS, 
  LESS, Vue.js, React, entre outras, que me deixaram ainda mais preparado para realizar minha transição de carreira. 
  Nele consegui realizar projetos interessantes, como uma página clone do Disney+, com design responsivo para 
- desktop e dispositivos móveis e um e-commerce completo de games.
- ● Habilidades em HTML, CSS, JavaScript e Git/GitHub
- ● Conhecimentos em React, Desenvolvimento de Interfaces, Node, Gulp, jQuery, Bootstrap e SASS
+ desktop e dispositivos móveis e um e-commerce completo de games. <br/>
+ ● Habilidades em HTML, CSS, JavaScript e Git/GitHub <br/>
+ ● Conhecimentos em React, Desenvolvimento de Interfaces, Node, Gulp, jQuery, Bootstrap e SASS <br/>
  ● Noções de Redux, React Test Library, TypeScript, Vue.js, Eslint, Prettier, Cypress, Jest, Ajax, Babel,
- LESS, Grunt, Figma e Web Design
+ LESS, Grunt, Figma e Web Design <br/>
  <div>
    <a href="https://github.com/pedropoliszuk">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropoliszuk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
