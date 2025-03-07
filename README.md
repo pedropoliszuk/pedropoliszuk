@@ -1,17 +1,22 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 
- Profissional com grande interesse na área front-end. Meu primeiro contato foi através da “Formação iniciante em 
- programação” da Alura, onde descobri esse interesse.
- Recentemente, conclui o curso profissionalizante “Engenheiro Front End” da EBAC, onde além de fixar meus 
- conhecimentos em HTML, CSS e JavaScript, tive a oportunidade de aprender competências novas, como SASS, 
- LESS, Vue.js, React, entre outras, que me deixaram ainda mais preparado para realizar minha transição de carreira. 
- Nele consegui realizar projetos interessantes, como uma página clone do Disney+, com design responsivo para 
- desktop e dispositivos móveis e um e-commerce completo de games. <br/> <br/>
- ● Habilidades em HTML, CSS, JavaScript e Git/GitHub <br/>
- ● Conhecimentos em React, Desenvolvimento de Interfaces, Node, Gulp, jQuery, Bootstrap e SASS <br/>
- ● Noções de Redux, React Test Library, TypeScript, Vue.js, Eslint, Prettier, Cypress, Jest, Ajax, Babel,
- LESS, Grunt, Figma e Web Design <br/>
+ Atualmente, estou cursando Ciência da Computação, aprofundando meus conhecimentos em desenvolvimento de software e engenharia de sistemas. Meu primeiro contato com programação foi através da "Formação Iniciante em Programação" da Alura, onde descobri meu interesse na área.
+
+Buscando me especializar, concluí o curso "Engenheiro Front-End" da EBAC, onde aprimorei minhas habilidades em HTML, CSS e JavaScript e aprendi novas tecnologias que me deixaram ainda mais preparado para o mercado.
+
+Durante essa jornada, desenvolvi projetos interessantes, como um clone do Disney+, com design responsivo para desktop e mobile, e um e-commerce completo de games, que me deixaram ainda mais preparado para realizar minha transição de carreira.
+
+Habilidades em React, Vue.js e Git/GitHub 
+Conhecimentos em Desenvolvimento de Interfaces, Node, Gulp, jQuery, Bootstrap, SASS e Metodologias Ágeis
+Noções de Redux, React Test Library, TypeScript, Eslint, Prettier, Cypress, Jest, Ajax, Babel, 
+LESS, Grunt, Figma e Web Design 
+
+
+Contato:
+(15) 99655-2906
+pedropoliszuk2@live.com
+
  <div>
    <a href="https://github.com/pedropoliszuk">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropoliszuk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
