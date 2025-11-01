@@ -5,7 +5,7 @@
 
 Buscando me especializar, concluí o curso "Engenheiro Front-End" da EBAC, onde aprimorei minhas habilidades em HTML, CSS e JavaScript e aprendi novas tecnologias que me deixaram ainda mais preparado para o mercado.<br/>
 
-Durante essa jornada, desenvolvi projetos interessantes, como um clone do Disney+, com design responsivo para desktop e mobile, e um e-commerce completo de games, que me deixaram ainda mais preparado para realizar minha transição de carreira.<br/>
+Durante essa jornada, desenvolvi projetos interessantes, como um clone do Disney+, com design responsivo para desktop e mobile, e um e-commerce completo de games.<br/>
 
 Habilidades em React, Vue.js e Git/GitHub<br/>
 Conhecimentos em Desenvolvimento de Interfaces, Node, Gulp, jQuery, Bootstrap, SASS e Metodologias Ágeis<br/>
